@@ -13,5 +13,5 @@ Bienvenido/a a mi repositorio para la materia de Cómputo Móvil 2025-1.
 
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/533px-Escudo-UNAM-escalable.svg.png)
+![Logo](https://francia.unam.mx/wp-content/uploads/2021/10/cropped-Logo-UNAM-Dorado-Square.png)
 
